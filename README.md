@@ -1,4 +1,4 @@
-# Generate Let's Encrypt Certificate for with PDD Yandex
+# Generate Let's Encrypt Certificate with PDD Yandex
 
 This is just wrapper for:
 - https://github.com/AnalogJ/lexicon
