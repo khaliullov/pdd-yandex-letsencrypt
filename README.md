@@ -6,4 +6,4 @@ This is just wrapper for:
 
 ## Usage
 
-make TOKEN=<pdd-yadex-toke> DOMAIN=<domain-certs-to-create>
+    make TOKEN=<pdd-yadex-toke> DOMAIN=<domain-certs-to-create>
